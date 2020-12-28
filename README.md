@@ -6,3 +6,6 @@
 - Run ```npm install```
 - Run ```node index.js```
 - And you are good to go
+
+## Screenshot
+![SomeSS](https://i.ibb.co/KXc2b2S/output-onlinepngtools.png)
