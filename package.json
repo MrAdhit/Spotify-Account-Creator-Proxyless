@@ -1,0 +1,23 @@
+{
+  "name": "spotify-account-creator-proxyless",
+  "version": "1.0.0",
+  "description": "Create Spotify Account Without Proxy",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "spotify",
+    "account",
+    "creator",
+    "proxyless"
+  ],
+  "author": "MrAdhit",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "fs": "0.0.1-security",
+    "node-fetch": "^2.6.1",
+    "prompts": "^2.4.0"
+  }
+}
