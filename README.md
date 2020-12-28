@@ -1,7 +1,7 @@
 # Spotify Account Creator Proxyless
  Create Spotify Account Without Proxy
 
-##Installation
+## Installation
 - Install Node.js
 - Run ```npm install```
 - Run ```node index```
