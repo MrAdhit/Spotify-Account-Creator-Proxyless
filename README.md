@@ -4,7 +4,7 @@
 ## Installation
 - Install Node.js
 - Run ```npm install```
-- Run ```node index.js```
+- Run ```npm start```
 - And you are good to go
 
 ## Screenshot
