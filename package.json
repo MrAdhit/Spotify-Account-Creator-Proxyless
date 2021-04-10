@@ -4,7 +4,7 @@
   "description": "Create Spotify Account Without Proxy",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "start": "node index"
   },
   "keywords": [
     "spotify",
